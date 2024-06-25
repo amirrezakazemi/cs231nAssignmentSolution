@@ -4,7 +4,7 @@ These are my implementations of the assignments from Stanford's "CNN for Visual 
 
 ## About CS231n
 
-This course is one of the most popular courses on deep learning, instructed by Fei Fei Li's team at Stanford. I highly recommend this course for anyone interested in implementing deep learning materials. Although the course is not very detailed in the theoretical aspects of concepts, it is extremely useful for programming all models from scratch. In Assignments 1 and 2, students should use numpy and get familiar with vectorization, while in Assignment 3 they must use TensorFlow/PyTorch. For Assignment 3, I used PyTorch.
+This course is one of the most popular courses on deep learning, instructed by Fei Fei Li's team at Stanford. I highly recommend this course for anyone interested in implementing deep learning materials. Although the course is not very detailed in the theoretical aspects of concepts, it is extremely useful for programming all models from scratch.
 
 For more information, visit [Stanford CS231n](https://cs231n.stanford.edu/).
 
